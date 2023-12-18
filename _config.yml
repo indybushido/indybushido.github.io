@@ -3,7 +3,8 @@ baseurl:
 
 # Site settings
 title: Indy Bushido
-email: benwencke@gmail.com
+email: indybushido@gmail.com
+phone: (317) 426-0805
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
@@ -44,19 +45,6 @@ people:
   position: Yondan
   description:
     - Began training at Isshinryu Bushido in 1998
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
