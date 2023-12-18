@@ -1,0 +1,23 @@
+{% include css/bootstrap.min.css %}
+{% include css/agency.css %}
+{{ content }}
+
+.instructors {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.instructors > .instructor {
+    display: flex;
+    flex-basis: 25%;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 50px;
+
+    background: #f1f1f1;
+    margin: 10px;
+    border-radius: 10px;
+}
